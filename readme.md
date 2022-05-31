@@ -59,7 +59,7 @@ The task that we'll be working over is to build a HANGMAN game, It is a simple w
 
   
 
--  **Task 2**: Giving hints to users, by showing a few letters when the user needs them. Also, you could give signs when the entered letters are wrong.
+-  **Task 2**: Add a high score page to view the previous scores.
 
   
 
@@ -139,7 +139,7 @@ Remember, the deadline for this week's task is June 7th, 2022, at 23:59.
 
   
 
-- [Web Development](https://github.com/COPS-CSOC-2022/CSOC22-Week1/blob/master/Webdev.md)
+- [Web Development](/WebDev.md)
 
   
 

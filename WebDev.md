@@ -1,4 +1,3 @@
-
 #  CSOC'22 Week1 Web Development
 
 ##  Introduction
