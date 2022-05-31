@@ -139,7 +139,7 @@ Remember, the deadline for this week's task is June 7th, 2022, at 23:59.
 
   
 
-- [Web Development](/WebDev.md)
+- [Web Development](https://github.com/COPS-CSOC-2022/CSOC22-Week1/blob/master/Webdev.md)
 
   
 
