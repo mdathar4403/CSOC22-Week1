@@ -45,6 +45,8 @@ Submission has to be done by sharing your github repo link and deployment link o
 
 - Make a Pull request
 
+Remember, the deadline for this week's task is June 7th, 2022, at 23:59.
+
 ##  Submissions
 
 <!-- Add you name in below list as -->

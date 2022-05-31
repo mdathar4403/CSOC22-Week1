@@ -1,108 +1,150 @@
 
-  
-
-# CSOC'22 Week1 Web Development
+# CSOC'22 Week1
 
   
 
-## Introduction
+This week, we'll jump with the basics of development with three tracks -
 
   
 
-Web development is a basic skill that is often said as a good start to the development field. This week you will learn the basics of web development. You will get familiar with HTML, CSS, and JavaScript. On completion, you will be able to make simple static websites for both desktop and mobile.
+1. Android Development
 
   
 
-## Responsive UI
+2. Web Development
 
   
 
-One major thing to ensure while working on Web Apps is to ensure that most people will open your websites on mobile first based on that we develop our site on Mobile First approach and then make changes to scale with increasing screen size
+3. Cross Platform Development using Flutter
 
   
 
-### Native CSS Tools
+Having knowledge of the previous week is necessary since Git remains highly used in this week. If you think you're weak in any of the topics, then try to revise them.
 
   
 
-These are vanilla CSS Tools that will allow you to make your UI respond to changes in the screen size.
+There's a basic project in each track as well to finish by 7th june, so get your tools back in shape!
 
   
 
-- Flexbox
+You may choose to compete in any number of tracks.
 
   
 
-- Grid
+## Assignment
 
   
 
-- Float
+This week tasks will be on the basic of UI and UX development. It will comprise of making simple games like HANGMAN and CALCULATOR.
 
   
 
-- Media Queries
+**Note** : You have to choose one of them.
 
   
 
-### CSS Frameworks
+### [HANGMAN](https://en.wikipedia.org/wiki/Hangman_(game))
 
   
 
-They provide you with a set of classes and components that scale with the screen size. Although its only recommended to use them when you understand native CSS properly.
+The task that we'll be working over is to build a HANGMAN game, It is a simple word guessing game. The player tries to figure out an unknown word by guessing letters. If too many letters which do not appear in the word are guessed, the player is hanged (and loses).
 
   
 
-- [Bootstrap 5](https://getbootstrap.com/)
+### Tasks
 
   
 
-- [TailwindCSS 2](https://tailwindcss.com/)
+-  **Task 1**: Implement a hangman game. Create a word generator and generate random words in every game.
 
   
 
-- [Bulma](https://bulma.io/)
+-  **Task 2**: Giving hints to users, by showing a few letters when the user needs them. Also, you could give signs when the entered letters are wrong.
 
   
 
-- [Materialize](https://materializecss.com/)
+-  **Task 3**: Giving hints to users, by showing a few letters when the user needs them. Also, you could give signs when the entered letters are wrong.
 
   
 
-## Submission Guidelines :
+-  **Task 4:** Make hard and easy mode with say, 5 lives in easy and 3 in hard mode. Also, word length and difficulty could be changed with respective levels. Easy words could have till 5 letters while difficult ones with longer words.
 
   
 
-Submission has to be done by sharing your github repo link and deployment link of site
+-  **Extras:** Adding a timer for making it more interactive and competitive.
 
   
 
-- Fork and then Clone your repository
+### [CALCULATOR](https://en.wikipedia.org/wiki/Calculator)
 
   
 
-- Make a new entry into submissions as explained in comments
+The objective is that you need to build a Calculator which will perform at least our basic mathematical operations.
 
   
 
-- Commit and Push the changes
+### Tasks
 
   
 
-- Make a Pull request
-
- Remember, the deadline for this week's task is June 9th, 2022, at 23:59.
-
-## Submissions
+-  **Task 1**: Create a simple calculator with basic mathematical operations.
 
   
 
-<!-- Add you name in below list as -->
+-  **Task 2**: Add complex operations including exponentiation, logarithms, trigonometry, etc.
 
   
 
-<!-- - Your Name - [Repo Name](Link) [Site](Site Link) -->
+-  **Task 3:** Add an option to change settings, say from radians to degrees and vice versa, and an option to change the theme of the app.
 
   
 
-<!-- - Sanyu Daver - [Tic Tac](https://github.com/sanyud/TicTac) [Site](www.copsiitbhu.co.in) -->
+-  **Task 4:** Feature to show a history of previous calculations.
+
+  
+
+-  **Extras:** Add feature for matrix calculations and plotting of simple basic graphs using equations.
+
+  
+
+## Judging
+
+  
+
+The evaluation would be done mainly on the following basis:
+
+  
+
+1. User Interface and User Experience
+
+  
+
+2. Authenticity and readability of the code
+
+  
+
+3. Completion of mentioned tasks
+
+  
+
+4. Bonus Points for implementing extra features depending on your creativity😉
+
+  
+
+Remember, the deadline for this week's task is June 7th, 2022, at 23:59.
+
+  
+
+## Tracks
+
+  
+
+- [Web Development](/WebDev.md)
+
+  
+
+- [Android](/Android.md)
+
+  
+
+- [Flutter](/Flutter.md)
